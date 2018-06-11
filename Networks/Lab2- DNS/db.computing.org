@@ -1,0 +1,21 @@
+;
+; BIND data file for local loopback interface
+;
+$TTL	604800
+@	IN	SOA	computing.org root.computing.org. (
+			      2		; Serial
+			 604800		; Refresh
+			  86400		; Retry
+			2419200		; Expire
+			 604800 )	; Negative Cache TTL
+;
+@	IN	NS	computing.org.
+@	IN	A	192.168.1.1
+@	IN	AAAA	::1
+
+
+UbuntuServer	IN	A	192.168.1.1
+fixed		IN	A	192.168.10.11
+ns		IN	CNAME	UbuntuServer
+www		IN	CNAME	UbuntuServer
+results		IN	CNAME	UbuntuServer

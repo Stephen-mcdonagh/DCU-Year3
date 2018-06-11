@@ -1,0 +1,13 @@
+
+
+// Our ‘computing.org’ forward domain zone
+zone  "computing.org" {
+   type  master;
+   file  "/etc/bind/db.computing.org";
+};
+// Our ‘computing.org’ reverse domain zone
+zone  "10.168.192.in-addr.arpa" {
+   type  master;
+   file  "/etc/bind/db.computing.org.192";
+};
+
