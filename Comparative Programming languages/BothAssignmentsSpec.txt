@@ -1,0 +1,38 @@
+Comparing Imperative and Object-Oriented Programming
+Implement the following program in an imperative style and an object-oriented style using any languages you choose provided they have an open-source implementation.
+
+Implement a to-do list program that stores the list of things to do in a queue (first-in/first-out). Each item in the to-do list can be either a task or an event. Tasks have a date, a start time, a duration and a list of people assigned to the task. An event has a date, a start time and a location.
+
+Submission
+
+This is an individual assignment. You should submit, by email to David.Sinclair@dcu.ie, all the source files in a Winzip file along with a declaration that this is solely your own work (except elements that are explicitly attributed to another source), and a report that compares and contrasts the two programs, by 10am on Monday 20th November 2017.
+
+Marks will be awarded for
+
+the imperative implementation,
+the object-oriented implementation, and
+the analytical comparison of the two implementations.
+Submissions without the declaration of that the assignment is the student's own work will not be assessed. The assignment carries 15 marks and late submissions will incur a 1.5 mark penalty for each 24 hours after the submission.
+Please click here to review the School's policy on plagarism. All submissions will be checked for plagarism and severe penalties will apply.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Comparing Logic Programming and Functional Programming
+Implement the following program using a logic programming language and a functional programming language. You can choose any language capable of logic programming and functional programming provided they have an open-source implementation.
+
+Implement a program that returns the longest common prefix of a list of strings. For example, given the list
+["interview", "interrupt", "integrate", "intermediate"]
+the longest common prefix is "inte".
+Submission
+
+This is an individual assignment. You should submit, by email to David.Sinclair@dcu.ie, all the source files in a Winzip file along with a declaration that this is solely your own work (except elements that are explicitly attributed to another source), and a report that compares and contrasts the two programs, by 10am on Monday 11th December 2017.
+
+Marks will be awarded for
+
+the description of the logic programming implementation,
+the description of the functioanl programming implementation,
+the efficiency of the two implementations and
+the analytical comparison of the two implementations.
+Submissions without the declaration of that the assignment is the student's own work will not be assessed. The assignment carries 15 marks and late submissions will incur a 1.5 mark penalty for each 24 hours after the submission.
+Please click here to review the School's policy on plagarism. All submissions will be checked for plagarism and severe penalties will apply.
